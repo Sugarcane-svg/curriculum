@@ -362,4 +362,6 @@ Send us your solution so we can show others! Submit a link below to this [file](
 - [Jasen's Solution](https://github.com/CelticJasen/library) - [View in Browser](https://CelticJasen.github.io/library/)
 - [Jamesredux's Solution](https://github.com/Jamesredux/library-app) - [View in Browser](https://jamesredux.github.io/library-app/)
 - [joankii's Solution (w/firebase)](https://github.com/joan-kii/TOP-library) - [View in Browser](https://joan-kii.github.io/TOP-library/)
+- [Jie's Solution](https://github.com/Sugarcane-svg/Library) - [View in Browser](https://sugarcane-svg.github.io/Library/)
+
 </details>
