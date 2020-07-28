@@ -25,6 +25,7 @@ To add your solution to the list below, edit this [file](https://github.com/TheO
   <summary> Show Student Solutions </summary>
 
 - Add your solution below this line!
+- [Jie's Solution](https://github.com/Sugarcane-svg/tic-tac-toe) - [View in Browser](https://sugarcane-svg.github.io/tic-tac-toe/)
 - [J-coen's Solution](https://github.com/J-coen/odin-tic-tac-toe) - [View in Browser](https://j-coen.github.io/odin-tic-tac-toe/)
 - [Sasoun Torossian's Solution](https://github.com/SasounTorossian/Tic-Tac-Toe) - [View in Browser](https://sasountorossian.github.io/Tic-Tac-Toe/)
 - [Shikhar's Solution](https://github.com/shikhar-sharma1703/Web-dev/tree/master/tic-tac-toe) - [View in Browser](https://shikhar-sharma1703.github.io/Web-dev/tic-tac-toe/)
